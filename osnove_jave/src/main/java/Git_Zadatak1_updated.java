@@ -1,4 +1,4 @@
-public class Git_Zadatak1 {
+public class Git_Zadatak1_updated {
     // git clone
     // git add
     // git commit -m
