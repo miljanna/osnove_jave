@@ -1,7 +1,8 @@
 public class Git_Zadatak1_updated {
-    // git clone
-    // git add
-    // git commit -m
-    // git push
-    // git restore -- staged
+    public static void main(String[] args) {
+        System.out.println("git clone");
+        System.out.println("git add");
+        System.out.println("git commit");
+        System.out.println("git push");
+    }
 }
