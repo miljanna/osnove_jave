@@ -29,7 +29,7 @@ public class Zadatak3 {
         nizBrojeva.add(9);
         nizBrojeva.add(0);
 
-            System.out.println("Niz je: " + nizBrojeva);
+        System.out.println("Niz je: " + nizBrojeva);
 
         System.out.print("Unesite poziciju za izbacivanje: ");
         int pozicija = s.nextInt();
